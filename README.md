@@ -1,3 +1,15 @@
 #  HDD firmware upgrade script
 
-This script can update HDD firmwares and resize certain hard drives on various platforms incuding onboard SAS, onboard SATA, HBA adapters, Adaptec RAID Cards, LSI RAID Cards and more.
+This HDD utility was created to update firmwares and resize drives for the following devices:
+
+- onboard SAS 
+- onboard SATA
+- HBA adapters
+- Adaptec RAID Cards
+- LSI RAID Cards
+
+Copyright (c) 2012 John Peña <jsp3na@gmail.com> and contributors
+
+### Run
+
+`./upgrade_drive.sh` 
