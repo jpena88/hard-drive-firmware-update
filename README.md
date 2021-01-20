@@ -8,7 +8,7 @@ This HDD utility was created to update firmwares and resize drives for the follo
 - Adaptec RAID Cards
 - LSI RAID Cards
 
-Copyright (c) 2012 John Peña <jsp3na@gmail.com> and contributors
+Copyright (c) 2012 John Peña
 
 ### Run
 
